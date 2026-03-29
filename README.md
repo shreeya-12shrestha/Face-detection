@@ -2,31 +2,31 @@
 
 Real-time face detection using Python and OpenCV with Haar Cascade classifier.
 
-## 🎯 How It Works
+## How It Works
 
 - Opens **live webcam feed**
 - Detects **faces in real-time** using Haar Cascade algorithm
 - Draws a **rectangle** around each detected face
 
-## 🛠️ Built With
+## Built With
 
 - [Python](https://python.org)
 - [OpenCV](https://opencv.org) — webcam feed & face detection
 - Haar Cascade Classifier (`haarcascade_frontalface_default.xml`)
 
-## 📦 Installation
+## Installation
 ```bash
 pip install opencv-python
 ```
 
-## 🚀 Run
+## Run
 ```bash
 python facedetection.py
 ```
 
 > Press **ESC** or **Q** to exit.
 
-## 📁 Project Structure
+## Project Structure
 ```
 facedetection/
 │
