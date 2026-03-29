@@ -35,7 +35,7 @@ facedetection/
 └── README.md
 ```
 
-## 📌 Notes
+## Notes
 
 - Make sure your **webcam is connected**
 - Works best in **good lighting**
